@@ -65,6 +65,8 @@ Google Colab에서 실행되었으며, 결과 이미지를 아래에 첨부합�
 ## 🟦 결과 이미지 (Bounding Box 적용)
 
 ![결과](result_car_image.jpg)
+![car image (3)](https://github.com/user-attachments/assets/5c7acc69-6a04-4478-9be6-7db6007a804f)
+
 
 ---
 
